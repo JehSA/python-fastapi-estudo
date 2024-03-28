@@ -9,6 +9,8 @@ sqlalchemy = "*"
 asyncpg = "*"
 asyncio = "*"
 psycopg2 = "*"
+aiohttp = "*"
+requests = "*"
 
 [dev-packages]
 
